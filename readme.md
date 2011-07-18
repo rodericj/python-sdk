@@ -7,6 +7,8 @@ This client library is designed to support the
 the canonical way to implement Facebook authentication. You can read more
 about the Graph API at [http://developers.facebook.com/docs/api](http://developers.facebook.com/docs/api).
 
+test
+
 Basic usage:
 
     graph = facebook.GraphAPI(oauth_access_token)
